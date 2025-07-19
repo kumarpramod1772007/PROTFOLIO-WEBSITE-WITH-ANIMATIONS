@@ -11,6 +11,6 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## Visit My Website
 
-Check out the live version of my portfolio here: [GitHub Pages - Portfolio Website](https://kumarpramod1772007.github.io/PROTFOLIO-WEBSITE-WITH-ANIMATIONS/)
+Check out the live version of my portfolio here: [GitHub Pages - Portfolio Website](https://kumarpramod1772007.github.io/portfolio-website/)
 
 Thank you for visiting! Feel free to explore my projects and get in touch.
